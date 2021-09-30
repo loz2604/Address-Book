@@ -103,7 +103,7 @@ button{
     border-color:rgb(71, 1, 71);
 }
 button:hover{
-    opacity: 80%;
+    /* opacity: 80%; */
     color:rgb(229, 200, 253);
 }
 button:active{
