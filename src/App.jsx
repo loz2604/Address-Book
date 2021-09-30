@@ -1,13 +1,11 @@
 //Handling Forms and inputs
-import React, { useEffect, useState } from "react"
+import React, { useState } from "react"
 import "./App.css"
 
 
 
 const App = () => {
-    useEffect(() => {
-        document.title = "Contacts"
-    }, [])
+
     const [userInput, setUserInput] = useState("");
     const [userForm, setUserForm] = useState([]);
 
