@@ -107,7 +107,7 @@ button:hover{
     color:rgb(229, 200, 253);
 }
 button:active{
-    opacity:100%;
+    opacity:100;
     border-color: rgb(71, 1, 71);
     box-shadow: none;
     color: rgb(39, 1, 39);
